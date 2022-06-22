@@ -8,7 +8,33 @@ Creidt card credit data from 2019 Q1 was analyzed to predict credit risk by eval
 ## Results
 
 The following balanced accuracy, precision, and recall scores of all six machine learning models were identified:
-      
-
+**    Oversampling using RandomOverSampler: **
+            * balanced accuracy score: 0.636
+            * precision:
+            * recall: 
+**    Oversampling using SMOTE: **
+            * balanced accuracy score:
+            * precision:
+            * recall: 
+**    Undersampling using ClusterCentroids: **
+            * balanced accuracy score:
+            * precision:
+            * recall:            
+**    Combination using SMOTEENN: **
+            * balanced accuracy score:
+            * precision:
+            * recall: 
+**    Undersampling using ClusterCentroids: **
+            * balanced accuracy score:
+            * precision:
+            * recall: 
+**    BalancedRandomForestClassifier: **
+            * balanced accuracy score:
+            * precision:
+            * recall:             
+**    EasyEnsembleClassifier: **
+            * balanced accuracy score:
+            * precision:
+            * recall: 
 ## Summary
 
