@@ -52,4 +52,4 @@ The following balanced accuracy, precision, and recall scores of all six machine
 
 
 ## Summary
-
+The precision, or positive predictive value (PPV), is a "measure of how reliable a positive classification is." Of the six models evaluated, the EasyEnsembleClassifer model had the highest at 0.07 and 1.00 for high and low risks, respectively. This model also had the highest balanced accuracy score, at 0.92 or 92%. The recall, or sensitivity, of this model was also the highest at 0.91 and 0.94 for high and low risks, respectively. Given these results, the recommendation is to use the EasyEnsemble model. 
